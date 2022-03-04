@@ -15,7 +15,7 @@ Work in different industries and specializations as a Software Engineer
 
 In my work I focus on the frontend and mainly work with JavaScript.
 I tried lots of different technologies and specializations in my field but the browser as a platform
-stuck with me all the time.
+stuck with me.
 
 **Languages**
 
