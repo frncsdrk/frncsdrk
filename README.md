@@ -1,8 +1,6 @@
-### frncsdrk
-
 ## What I do
 
-Work in different industries and specializations as a Software Engineer
+Working in different industries and specializations as a Software Engineer
 
 **Industries**
 
@@ -14,8 +12,8 @@ Work in different industries and specializations as a Software Engineer
 **Specializations**
 
 In my work I focus on the frontend and mainly work with JavaScript.
-I tried lots of different technologies and specializations in my field but the browser as a platform
-stuck with me.
+I tried lots of different technologies and specializations in my field
+but the browser as a platform stuck with me.
 
 **Languages**
 
@@ -39,6 +37,5 @@ My toolbox
 
 - VSCodium
 - Vim
-- Paw (HTTP Client)
 - Fish Shell
 - Git (duh)
