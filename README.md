@@ -1,6 +1,4 @@
-## What I do
-
-SysAdmin
+**SysAdmin**
 
 Coding for the lulz
 
@@ -8,5 +6,8 @@ Coding for the lulz
 
 - Vim / Neovim
 - Python, Golang and others
-- Fish and Bash Shell
+- JavaScript / TypeScript, Node.js, Astro
+- Fish and POSIX Shell
+- Ansible
+- Linux
 - Git (duh)
